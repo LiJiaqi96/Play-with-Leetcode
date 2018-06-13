@@ -4,7 +4,7 @@
 
 Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun  
 --- | --- | --- | --- | --- | --- | --- | ---
-24  | | [394](https://github.com/vivi3nli/LeetCodeDaily#20180612%E9%A2%98%E7%9B%AE) | [43](https://github.com/vivi3nli/LeetCodeDaily#20180613%E9%A2%98%E7%9B%AE)
+24  | | [394](https://github.com/vivi3nli/LeetCodeDaily#20180612%E9%A2%98%E7%9B%AE) | [43,66](https://github.com/vivi3nli/LeetCodeDaily#20180613%E9%A2%98%E7%9B%AE) | [14](https://github.com/vivi3nli/LeetCodeDaily#20180613%E9%A2%98%E7%9B%AE)
 
 - [My Solutions](https://github.com/vivi3nli/LeetCodeDaily#my-leetcoding-solutions-%E6%88%91%E7%9A%84%E8%A7%A3%E7%AD%94)
 - [Group Members](https://github.com/vivi3nli/LeetCodeDaily#group-members-%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84%E6%88%90%E5%91%98)
@@ -38,7 +38,7 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 
 [Chen Wenchang](https://github.com/chenwenchang/Leetcode)
 
-[Li Jiaqi](https://github.com/LiJiaqi96/Play-with-Leetcode)
+[Li Fanhong](https://github.com/vivi3nli/LeetCodeDaily)
 
 ## References 参考资料
 
